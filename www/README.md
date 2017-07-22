@@ -1,4 +1,4 @@
-This is an addon starter template for the [Ionic Framework](http://ionicframework.com/).
+This is a starter template for a [Code Craft](https://codecraftpro.com/) course on developing mobile apps with the [Ionic Framework](http://ionicframework.com/).
 
 ## How to use this template
 
@@ -8,11 +8,11 @@ To use this, either create a new ionic project using the ionic node.js utility, 
 
 ### With the Ionic tool:
 
-Take the name after `ionic-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+Add the URL to this github repo as the last parameter to the `ionic start` command:
 
 ```bash
 $ sudo npm install -g ionic cordova
-$ ionic start myApp blank
+$ ionic start myApp <URL-TO-REPO>
 ```
 
 Then, to run it, cd into `myApp` and run:
@@ -25,8 +25,5 @@ $ ionic emulate ios
 
 Substitute ios for android if not on a Mac, but if you can, the ios development toolchain is a lot easier to work with until you need to do anything custom to Android.
 
-## Demo
-http://plnkr.co/edit/tpl:IUU30p?p=preview
-
 ## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/contribute/#issues) to the main Ionic repository. On the other hand, pull requests are welcome here!
+Issues have been disabled on this repo, if you do find an issue or have a question please email hi@codecraftpro.com.
